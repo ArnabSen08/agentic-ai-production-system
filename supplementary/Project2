@@ -1,0 +1,228 @@
+Ready Tensor logo
+Home
+Publications
+Certifications
+Competitions
+Contributors
+
+Light
+
+Start publication
+Ready Tensor logo
+Start publication
+Home
+Publications
+Certifications
+Competitions
+Contributors
+Back to lessons
+Aug 02, 2025
+●
+381 reads
+●
+Creative Commons Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
+Project Submission Guidelines: Agentic AI in Production Certification
+AAIDC
+Agentic AI
+Certification
+Module 3
+Multi-Agent Systems
+Project Submission
+ready-tensor
+Ready Tensor
+Like
+Bookmark
+Share
+AAIP-U4L2 Capstone Project Submission Guidelines.webp
+
+🏠 Home - All Lessons
+
+⬅️ Previous - Capstone Project Requirements
+
+➡️ Next - Agentic AI Interview Prep
+
+🎯 Time to Deliver: Submitting Your Final Project
+You’ve reached the final milestone of the Agentic AI Developer Certification Program.
+
+This capstone is your opportunity to demonstrate everything you’ve learned — not just about agents and collaboration, but about building real-world AI systems that are safe, testable, and deployable.
+
+This guide walks you through the submission process.
+
+✅ Submission Requirements
+Your final project must demonstrate a production-ready version of the multi-agent system you built in Mastering AI Agents certification program. You are expected to show improvements across the following areas:
+
+Testing
+Safety
+User Interface
+Operational resilience
+Documentation
+What to Submit
+You need to submit:
+
+1. A Ready Tensor Publication
+Your public-facing project report, published on the Ready Tensor platform, should:
+
+Explain how your system works and what problem it solves
+Detail the enhancements made to achieve production-readiness
+Document your testing strategy, safety features, and interface design
+Include screenshots or demos of your UI
+Clearly identify failure handling, monitoring, and deployment choices
+Optional (but highly recommended): Include a short video demo of your system in action
+Note you may link to your publication from Mastering AI Agents certification program if you built upon that work. No need to duplicate the content. You may still want to summarize the project and what was done in Mastering AI Agents program.
+
+📄 
+Publication Evaluation Rubric
+
+2. A GitHub Repository
+Your code repository should:
+
+Contain well-structured, working code with instructions to set up and run the app
+Include a testing suite (unit, integration, and system tests)
+Show evidence of input validation, error handling, and security guardrails
+Include a working UI layer using Streamlit, Gradio, or similar
+Meet at least 80% of the “Professional” criteria in the Ready Tensor repo rubric
+📄 
+Repository Evaluation Rubric
+
+Your project will be reviewed in the month matching your submission date.
+
+Submit by any one of the following:
+
+ 🔴 January 05, 2026,11:59 PM UTC
+ 🔴 February 02, 2026, 11:59 PM UTC
+ 🔴 March 02, 2026, 11:59 PM UTC
+ 🔴 April 06, 2026, 11:59 PM UTC
+ 🔴 May 04, 2026, 11:59 PM UTC
+Missed this month's deadline? Just submit before the next and you'll be reviewed in that month's review cycle.
+
+📦 Submission Process: Step-by-Step
+Before You Begin
+Make sure you’ve done the following:
+
+Have a Ready Tensor account – If you’re not already registered, 
+sign up here
+.
+Be enrolled in the program – If you haven’t joined yet:
+Go to the 
+Certifications page
+Click “Join Now” near the top (next to the page title)
+You’ll be enrolled immediately.
+(If you don’t see the Join Now link, you’re already enrolled.)
+Step 1: Create Your Publication
+Create a new publication in the team lead’s personal hub. This should be a detailed write-up of your final, production-grade system. Publication should be created by your team lead.
+
+⚠️ Create the publication in the team lead's personal hub (not in the hub named `Ready Tensor Certifications`).
+
+Step 2: Select the program
+In the Create Publication form, choose the correct program from the dropdown (i.e., Production-Grade Agentic System for this project).
+
+If you don’t see the dropdown, you’re not enrolled — see the instruction on how to enroll above.
+Step 3: Add Co-Authors
+Include all teammates as co-authors on the publication. The team lead should be listed first.
+
+Step 4: Link Your Code Repository
+Paste your GitHub repo URL in the “Code” section. Make sure it’s public and includes all files, tests, and documentation.
+
+Step 5: Include a Demo (Recommended)
+Upload a video demo to YouTube and embed the link in your publication. Walk through your app, explain how it works, and show key features.
+
+Step 6: Final Review and Publish
+Proofread everything. Test your app from scratch. Run your test suite. Then hit publish.
+
+A short demo video (2–5 minutes) helps reviewers understand your project faster — and makes a great portfolio piece. Show your interface, walk through a user flow, highlight guardrails or logging, and explain your design decisions.
+
+Upload to YouTube and link it in your Ready Tensor publication.
+
+📋 Final Submission Checklist
+Publication
+ Published on Ready Tensor
+ Correct program selected in the dropdown (i.e., Production-Grade Agentic System)
+ Created by team lead
+ Co-authors added
+ Problem, architecture, UI, and safety enhancements documented
+ Linked GitHub repo
+ (Optional) Video demo embedded
+GitHub Repo
+ Complete, functional system code
+ Clear instructions for setup and usage
+ Testing suite (unit, integration, end-to-end)
+ Guardrails (against prompt injection, abuse, etc.)
+ UI (Streamlit, Gradio, or equivalent)
+ .env.example file for required environment variables
+ Logging or monitoring utilities included (if any)
+ No hardcoded secrets or sensitive keys
+🧪 Evaluation Criteria
+Each submission is reviewed based on two rubrics:
+
+Publication Rubric (tool/app/software development)
+Repository Rubric (professional-level standards)
+Expect reviewers to:
+
+Test your app end-to-end
+Inspect your code, test suite, and documentation
+Evaluate safety, usability, and resilience features
+Provide feedback and a certification decision
+Minimum score for certification: 80% in both rubrics
+
+🚀 Finish Strong: Your Final Test as an Agentic AI Engineer
+This is your final test — not just of technical skill, but of your ability to build systems that are safe, reliable, and ready for the real world.
+
+Your reviewers will be asking:
+Can you think like a system architect?
+Can you handle edge cases, catch failures, and build something others can trust and reuse?
+
+If you can — and you meet the project requirements — you’ll earn the Agentic AI Developer Certificate. But more importantly, you’ll finish with a production-grade portfolio project you can share proudly with employers, collaborators, and future teams.
+
+💼 This is what sets you apart — not just knowing how to build with AI, but how to engineer reliable, real-world systems.
+
+You’ve come this far. Now finish strong.
+Build boldly. Ship with confidence. You’ve got this.
+
+Join us on 
+Discord
+ for support, collaboration, and last-minute questions. The community — and the Ready Tensor team — is here to help.
+
+📚 Helpful Resources
+Project 3 Requirements
+Publication Rubric
+Repository Rubric
+Ready Tensor Publication Best Practices
+🏠 Home - All Lessons
+
+⬅️ Previous - Capstone Project Requirements
+
+➡️ Next - Agentic AI Interview Prep
+
+Table of contents
+
+🎯 Time to Deliver: Submitting Your Final Project
+
+
+✅ Submission Requirements
+
+
+A Ready Tensor Publication
+
+A GitHub Repository
+
+📦 Submission Process: Step-by-Step
+
+
+📋 Final Submission Checklist
+
+
+🧪 Evaluation Criteria
+
+
+🚀 Finish Strong: Your Final Test as an Agentic AI Engineer
+
+
+📚 Helpful Resources
+
+About
+Docs
+Privacy
+Copyright
+Contact
+Support
+© Ready Tensor, Inc.
